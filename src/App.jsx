@@ -6,14 +6,15 @@ import Process from "./components/Process";
 import Projects from "./components/Projects";
 import WhyMe from "./components/WhyMe";
 import Contact from "./components/Contact";
-import About from "./components/about";
+import Temp from "./components/Temp";
+
 
 function App() {
   return (
     <div >
       <Navbar />
       <Hero />
-      <About />
+      <Temp />
       <Services />
       <Technologies />
       <Process />

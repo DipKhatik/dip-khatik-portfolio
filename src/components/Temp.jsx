@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 // import aboutImage from "../assets/about.jpg";
 
-export default function About() {
+export default function Temp() {
   return (
     <section
       id="about"
