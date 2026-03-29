@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
+import profilePic from "../assets/passport size.png";
 
 export default function Hero() {
   const [clicked, setClicked] = useState(false);
@@ -37,7 +38,7 @@ export default function Hero() {
       
       <img
         id="profile-pic"
-        src="./public/passport size.png"
+        src={profilePic}
         alt="Siddhraj"
         className="w-60 h-60 sm:w-80 sm:h-80 md:w-[450px] md:h-[450px]
                    rounded-full object-cover object-top 
