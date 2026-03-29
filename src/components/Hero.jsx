@@ -38,7 +38,7 @@ export default function Hero() {
       
       <img
         id="profile-pic"
-        src={profilePic}
+        src="./public/passport size.png"
         alt="Siddhraj"
         className="w-60 h-60 sm:w-80 sm:h-80 md:w-[450px] md:h-[450px]
                    rounded-full object-cover object-top 
