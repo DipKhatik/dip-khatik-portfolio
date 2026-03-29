@@ -11,10 +11,7 @@
   "dependencies": {
     "emailjs-com": "^3.2.0",
     "framer-motion": "^10.18.0",
-<<<<<<< HEAD
-=======
-    "lucide-react": "^1.7.0",
->>>>>>> 7ab06a9 (Finalizing responsive Navbar and Hero)
+    "lucide-react": "^0.284.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1"
